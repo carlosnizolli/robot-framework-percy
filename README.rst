@@ -1,4 +1,4 @@
-robot-framework-percy
+Robot-framework-percy for SeleniumLibrary
 =====================
 
 .. contents::
@@ -12,12 +12,12 @@ Installation
 
 The recommended installation method is using pip::
 
-    pip install robot-framework-percy
+    pip install git+https://github.com/carlosnizolli/robot-framework-percy.git
 
 Usage
 -----
 
-.. code:: robotframework
+.. code:: robotframework with SeleniumLibrary
 
     *** Settings ***
     Library    RobotFrameworkPercy
