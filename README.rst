@@ -5,7 +5,7 @@ Robot-framework-percy for SeleniumLibrary
 
 Introduction
 ------------
-Robot framework client library for visual regression testing with Percy.
+Robot framework client library for visual regression testing with Percy and  SeleniumLibrary.
 
 Installation
 ------------
@@ -17,7 +17,7 @@ The recommended installation method is using pip::
 Usage
 -----
 
-.. code:: robotframework with SeleniumLibrary
+.. code:: robotframework
 
     *** Settings ***
     Library    RobotFrameworkPercy
